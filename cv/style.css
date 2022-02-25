@@ -229,7 +229,7 @@ section:last-child {
 
 @media print {
     #cv {
-        width: 80%;
+        width: 100%;
     }
 }
 
