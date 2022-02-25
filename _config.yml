@@ -1,2 +1,3 @@
 name: Rong Zhang
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
